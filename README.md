@@ -10,3 +10,4 @@ La correspondance en toutes lettres lui est ensuite affichée.
 S'il veut sortir, il appuie sur ENTER sans mettre de valeur.
 
 Et voici la version master.
+Ensuite il y a ce readme qui est la version élève
